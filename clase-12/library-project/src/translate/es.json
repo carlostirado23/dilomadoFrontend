@@ -1,0 +1,10 @@
+{
+  "login-page": {
+    "title": "Iniciar sesion",
+    "button": "Iniciar sesion",
+    "password": "Contrasena"
+  },
+  "signup-page": {
+    "title": "Registrarse"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "login-page": {
+    "title": "Login",
+    "button ": "Login",
+    "password ": "Password"
+  },
+  "signup-page": {
+    "title": "Sign up"
+  }
+}
